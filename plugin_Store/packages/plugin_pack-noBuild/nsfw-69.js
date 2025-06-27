@@ -45,7 +45,7 @@ let handler = async (m, { conn }) => {
     let str = `\`${name2}\` le está haciendo un 69 a \`${name}\``.trim();
 
     try {
-        const response = await axios.get('https://raw.githubusercontent.com/Elpapiema/Adiciones-para-AlyaBot-RaphtaliaBot-/refs/heads/main/video_json/NSFW/69.json');
+        const response = await axios.get('https://raw.githubusercontent.com/Elpapiema/CharHub-Store/refs/heads/main/video_json/NSFW/69.json');
         const videos = response.data.videos;
         const video = videos[Math.floor(Math.random() * videos.length)];
 

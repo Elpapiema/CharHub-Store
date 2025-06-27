@@ -45,7 +45,7 @@ let handler = async (m, { conn }) => {
     let str = `\`${name2}\` se vino encima de \`${name}\``.trim();
 
     try {
-        const response = await axios.get('https://raw.githubusercontent.com/Elpapiema/Adiciones-para-AlyaBot-RaphtaliaBot-/refs/heads/main/video_json/NSFW/cum.json');
+        const response = await axios.get('https://raw.githubusercontent.com/Elpapiema/CharHub-Store/refs/heads/main/video_json/NSFW/cum.json');
         const videos = response.data.videos;
         const video = videos[Math.floor(Math.random() * videos.length)];
 

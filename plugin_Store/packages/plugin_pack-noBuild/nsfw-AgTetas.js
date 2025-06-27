@@ -45,7 +45,7 @@ let handler = async (m, { conn }) => {
     let str = `\`${name2}\` le está manoseando las tetas a \`${name}\``.trim();
 
     try {
-        const response = await axios.get('https://raw.githubusercontent.com/Elpapiema/Adiciones-para-AlyaBot-RaphtaliaBot-/refs/heads/main/video_json/NSFW/agTetas.json');
+        const response = await axios.get('https://raw.githubusercontent.com/Elpapiema/CharHub-Store/refs/heads/main/video_json/NSFW/agTetas.json');
         const videos = response.data.videos;
         const video = videos[Math.floor(Math.random() * videos.length)];
 
