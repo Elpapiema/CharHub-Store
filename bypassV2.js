@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         BoxmineWorld - Bypass AdBlock + Auto‑Update
 // @namespace    https://github.com/Elpapiema
-// @version      1.3_Beta-2
-// @description  Elimina bloqueos de AdBlock y se auto‑actualiza desde tu repo.
-// @author       Emma (Violets)
+// @version      1.3_Beta-3
+// @description  Elimina bloqueos de AdBlock en el Panel de BoxmineWorld
+// @author       Emma (Violet's Version)
+// @icon         https://raw.githubusercontent.com/Elpapiema/API_Alya/refs/heads/main/web/icon.png
 // @match        https://panel.boxmineworld.com/*
 // @grant        GM_addStyle
 // @grant        GM_registerMenuCommand
