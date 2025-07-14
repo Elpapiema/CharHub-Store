@@ -5,6 +5,8 @@
 // @description  Elimina bloqueos de AdBlock en el Panel de BoxmineWorld
 // @author       Emma (Violet's Version)
 // @icon         https://raw.githubusercontent.com/Elpapiema/API_Alya/refs/heads/main/web/icon.png
+// @updateURL    https://raw.githubusercontent.com/Elpapiema/CharHub-Store/main/bypassV2.js
+// @downloadURL  https://raw.githubusercontent.com/Elpapiema/CharHub-Store/main/bypassV2.js
 // @match        https://panel.boxmineworld.com/*
 // @grant        GM_addStyle
 // @grant        GM_registerMenuCommand
