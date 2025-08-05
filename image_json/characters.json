@@ -676,41 +676,47 @@
   "age": 25,
   "relationship": "Soltero",
   "source": "El chico de las perlas",
-  "img": "https://files.catbox.moe/01rpg6.jpg"
+  "img": "https://files.catbox.moe/01rpg6.jpg",
+  "buy": "1500"
 },
 {
   "name": "Yeo Taejoo",
   "age": 27,
   "relationship": "Soltero",
   "source": "Noche junto al mar",
-  "img": "https://files.catbox.moe/rn5zaw.jpg"
+  "img": "https://files.catbox.moe/rn5zaw.jpg",
+  "buy":"500"
 },
 {
   "name": "Caesar Sergeyev",
   "age": 34,
   "relationship": "Soltero",
   "source": "Rosas y Champagne",
-  "img": "https://files.catbox.moe/8wa3oz.webp"
+  "img": "https://files.catbox.moe/8wa3oz.webp",
+  "buy": "1500"
 },
 {
   "name": "Yoruichi Shihōin",
   "age": 100,
   "relationship": "soltera",
   "source": "bleach",
-  "img": "https://files.catbox.moe/puzhnp.jpg"
+  "img": "https://files.catbox.moe/puzhnp.jpg",
+  "buy": "2500"
 },
 {
   "name": "Tenya Iida",
   "age": 16,
   "relationship": "2278",
   "source": "My hero academia",
-  "img": "https://qu.ax/vHVgg.jpeg"
+  "img": "https://qu.ax/vHVgg.jpeg",
+  "buy": "1000"
 },
 {
   "name": "Satou Matsuzaka",
   "age": 16,
   "relationship": "soltera",
   "source": "Happy Sugar Life",
-  "img": "https://files.catbox.moe/vjk72e.jpg"
+  "img": "https://files.catbox.moe/vjk72e.jpg",
+  "buy": "2525"
 }
  ]
