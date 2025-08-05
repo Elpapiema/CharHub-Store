@@ -670,5 +670,40 @@
         "source": "Komi Can't Communicate",
         "img": "https://files.catbox.moe/98vri2.jpg",
         "buy": "1000"
+},
+{
+  "name": "Kang Doshik",
+  "age": 25,
+  "relationship": "Soltero",
+  "source": "El chico de las perlas",
+  "img": "https://files.catbox.moe/01rpg6.jpg"
+},
+{
+  "name": "Yeo Taejoo",
+  "age": 27,
+  "relationship": "Soltero",
+  "source": "Noche junto al mar",
+  "img": "https://files.catbox.moe/rn5zaw.jpg"
+},
+{
+  "name": "Caesar Sergeyev",
+  "age": 34,
+  "relationship": "Soltero",
+  "source": "Rosas y Champagne",
+  "img": "https://files.catbox.moe/8wa3oz.webp"
+},
+{
+  "name": "Yoruichi Shihōin",
+  "age": 100,
+  "relationship": "soltera",
+  "source": "bleach",
+  "img": "https://files.catbox.moe/puzhnp.jpg"
+},
+{
+  "name": "Tenya Iida",
+  "age": null,
+  "relationship": "2278",
+  "source": "My hero academia",
+  "img": "https://qu.ax/vHVgg.jpeg"
 }
  ]
