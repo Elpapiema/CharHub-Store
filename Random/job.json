@@ -39,6 +39,15 @@
       "description": "Trabajaste de niñera",
       "minMoney": 3000,
       "maxMoney": 8500
-    }
-  ]
-}
+    },
+    {
+      "description": "trabajaste de taxista",
+      "minMoney": 1000,
+      "maxMoney": 2500
+    },
+    {
+      "description": "vendias hamburguesas en la Costanera",
+      "minMoney": 1500,
+      "maxMoney": 2500
+    },
+    {
