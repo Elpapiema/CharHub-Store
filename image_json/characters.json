@@ -725,7 +725,7 @@
   "relationship": "soltera",
   "source": "re:Zero",
   "img": "https://qu.ax/uzLyB",
-  "Buy": "1500"
+  "buy": "1500"
 },
 {
   "name": "koneko",
@@ -733,7 +733,7 @@
   "relationship": "enamorada",
   "source": "high schooldxd",
   "img":        "https://files.catbox.moe/ek77oh.jpeg",
-  "Buy": "2000"
+  "buy": "2000"
 },
 {
   "name": "marin kitagawa",
@@ -741,7 +741,7 @@
   "ralationship": "enamorada",
   "source": "My Dress-Up Darling",
   "img": "https://files.catbox.moe/8udcfb.jpg",
-  "Buy": "2000"
+  "buy": "2000"
 },
 {
   "name": "reze",
@@ -749,6 +749,14 @@
   "ralationship": "enamorada",
   "source": "chainsaw man",
   "img": "https://qu.ax/T9qH0",
-  "Buy": "2500"
+  "buy": "2500"
+},
+{
+ "name": "karane inda",
+ "age": 16,
+ "relationship": "enamorada",
+ "source": "The 100 Girlfriends",
+ "img": "https://files.catbox.moe/kgf4as.jpeg",
+ "buy": "2000"
 }
    ]
