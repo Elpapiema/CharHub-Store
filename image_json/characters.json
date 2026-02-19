@@ -780,7 +780,15 @@
  "age": 17,
  "relationship": "soltera",
  "source": "umamusume pretty derby",
- "img": "ttps://qu.ax/b0LMh",
+ "img": "https://qu.ax/b0LMh",
  "buy": "4000"
+},
+{
+ "name": "oguri cap",
+ "age": 17,
+ "relationship": "enamorado de pity",
+ "source": "umamusume Cinderella gray ",
+ *img": "https://files.catbox.moe/x3v8f9.jpeg",
+ "Buy": "400"
 }
    ]
